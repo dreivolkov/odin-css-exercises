@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+p.odd {
+    background-color:darksalmon;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#second {
+    color: rgb(0, 13, 255);
+    font-size: 36px;
+}
+
+.odd.cool {
+    font-size: 24px;
+}
+
+#fourth {
+    font-size: 24px;
+    font-weight: 700;
+    background-color: green;
+}
